@@ -1,7 +1,8 @@
 # Scalable & Secure 2-Tier Architecture on AWS
 
 This project demonstrates the deployment of a production-ready, highly available 2-tier application on AWS. It showcases professional cloud networking, security, and automation.
-![Uploading image.png…]()
+
+![Infra](https://github.com/user-attachments/assets/bb04d542-7cd6-4f62-a7f2-c5378056f1c5)
 
 
 
