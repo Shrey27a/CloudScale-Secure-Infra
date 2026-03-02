@@ -31,6 +31,7 @@ The application is hosted on AWS using a secure 2-tier design:
 ### 1. Networking Setup
 - Create a VPC, Subnets, and Route Tables.
 - Configure an Internet Gateway and NAT Gateway.
+
   <img width="502" height="238" alt="Picture1" src="https://github.com/user-attachments/assets/ef71ddc8-113f-440f-a2c3-6ae2cf3ea890" />
 
 ### 2. Database (RDS) Setup
