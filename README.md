@@ -43,9 +43,11 @@ The application is hosted on AWS using a secure 2-tier design:
 - Configure an EC2 instance with Nginx, Node.js, and PM2.
 - Create a **Golden AMI** from the configured instance.
 - Set up an **Application Load Balancer** and **Auto Scaling Group**.
+
    <img width="516" height="509" alt="Picture4" src="https://github.com/user-attachments/assets/31a9a9aa-2648-48ba-9048-b8400d4b1b60" />
 
-   <img width="742" height="145" alt="Picture5" src="https://github.com/user-attachments/assets/36bd8ffd-a7a5-47ef-8725-a941d2e2c797" />
+
+  <img width="742" height="145" alt="Picture5" src="https://github.com/user-attachments/assets/36bd8ffd-a7a5-47ef-8725-a941d2e2c797" />
 
 ### 4. Domain & Caching
 - Point your domain via **Route 53**.
